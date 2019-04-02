@@ -1,0 +1,7 @@
+c:\users\amikom\source\repos\latihanmethod\latihanmethod\bin\Debug\latihanmethod.exe.config
+c:\users\amikom\source\repos\latihanmethod\latihanmethod\bin\Debug\latihanmethod.exe
+c:\users\amikom\source\repos\latihanmethod\latihanmethod\bin\Debug\latihanmethod.pdb
+c:\users\amikom\source\repos\latihanmethod\latihanmethod\obj\Debug\latihanmethod.csprojAssemblyReference.cache
+c:\users\amikom\source\repos\latihanmethod\latihanmethod\obj\Debug\latihanmethod.csproj.CoreCompileInputs.cache
+c:\users\amikom\source\repos\latihanmethod\latihanmethod\obj\Debug\latihanmethod.exe
+c:\users\amikom\source\repos\latihanmethod\latihanmethod\obj\Debug\latihanmethod.pdb
